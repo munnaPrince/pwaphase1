@@ -1,0 +1,40 @@
+{
+	"basics": {
+		"img": "images/img4.jpeg",
+		"name": "munna",
+		"email":"munnaf.prince.48@gmail.com"
+	},
+	"career": {
+		"info": "i want to seek a possition where i can explore my skills and thoughts"
+
+	},
+	"education": [{
+			"sno": "1",
+			"degree": "btech",
+			"yearofpassing": "2018",
+			"institute": "mits"
+		},
+		{
+			"sno": "2",
+			"degree": "intermediate",
+			"yearofpassing": "2016",
+			"institute": "sriChaiyanyaJRCollege "
+		},
+		{
+			"sno": "3",
+			"degree": "ssc",
+			"yearofpassing": "2014",
+			"institute": "school"
+		}
+	],
+	"skills": [{
+		"info": "c"
+	}, {
+		"info": "c++"
+	}, {
+		"info": "java"
+	}, {
+		"info": "html"
+	}]
+
+}

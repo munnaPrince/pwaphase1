@@ -1,0 +1,52 @@
+.main{
+  display: flex;
+  justify-content: space-around;
+  margin:auto;
+  padding:auto;
+}
+body{
+  background: pink;
+  margin:auto;
+  padding:auto;
+  justify-content: space-around;
+
+}
+.sub1 {
+  margin-top: 20px;
+  background: silver;
+  border: 2px solid grey;
+  font-size: 17px;
+  border-radius: 20%;
+  flex-wrap: wrap;
+padding:2%;
+  justify-content: space-around;
+  text-align: center;
+
+}
+.sub2 {
+    margin-top: 20px;
+  background: silver;
+  border: 2px solid grey;
+  font-size: 20px;
+padding:1%;
+  border-radius: 10%;
+
+  flex-wrap:wrap;
+  justify-content: space-around;
+  text-align: left;
+}
+table{
+  border: 2px solid black;
+}
+
+tr{
+  border:1px solid black;
+  font-size: 30px;
+}
+
+table th,td {
+  border-collapse: collapse;
+  text-align: center;
+  border:1px solid black;
+
+}
